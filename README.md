@@ -10,6 +10,8 @@ Guilherme Garbelini RM: 571150
 Mariana Carminato RM:573258
 Vinicius Torralles Ferreira Conduta RM: 570911
 
+---
+
 ## Sobre o Projeto
 
 O ChargeGrid Intelligence é uma solução desenvolvida para o EV Challenge 2026 da FIAP em parceria com a GoodWe.
