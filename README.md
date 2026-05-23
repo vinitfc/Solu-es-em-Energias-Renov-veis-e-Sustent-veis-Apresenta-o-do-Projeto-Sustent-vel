@@ -37,7 +37,7 @@ Entre os principais problemas identificados estão:
 
 ---
 
-## Nossa Solução
+## Nossa solução
 
 Nossa proposta utiliza uma arquitetura inteligente composta por:
 
