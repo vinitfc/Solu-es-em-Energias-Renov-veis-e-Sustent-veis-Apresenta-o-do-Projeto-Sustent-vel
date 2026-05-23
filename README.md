@@ -90,17 +90,7 @@ Além disso, o uso de inteligência artificial possibilita melhor distribuição
 
 ## Arquitetura da Solução
 
-Usuário/App
-↓
-Frontend Dashboard
-↓
-Backend FastAPI
-↓
-Smart Charging Engine
-↓
-OCPP Server
-↓
-Carregadores
+Usuário/App ----> Frontend Dashboard ----> Backend FastAPI ----> Smart Charging Engine ----> OCPP Server ----> Carregadores
 
 ---
 
